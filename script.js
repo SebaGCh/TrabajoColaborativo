@@ -9,7 +9,7 @@ let iceCreamFlavors = [
   "Casata",
   "Menta",
   "Pasas al Ron",
-  "Cookies and Cream",
+  "Cookies and Cream"
 ];
 
 
